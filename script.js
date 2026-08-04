@@ -4,11 +4,11 @@ const envelope = document.querySelector(".envelope-container");
 const message = document.getElementById("message");
 
 const text = 
-`I made this little surprise just for you 💙
+`I made this little surprise just for you 🩷
 
-I hope your birthday is filled with happiness,
-beautiful memories,
-and everything you love.
+I wish all the happiness to you today and every single day after ✨
+I hope your day is filled with happiness, kindness, and i wish you get everything you want~
+3o2bal milion sana w enty b5air w se7a w sa3ada
 
 Have an amazing day 🌸`;
 
