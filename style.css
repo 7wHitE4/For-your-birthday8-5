@@ -993,12 +993,12 @@ html, body{
     position:fixed;
 
     left:50%;
-    bottom:0%;
+    bottom:30%;
 
     transform:translateX(-50%);
 
     width:385px;      /* Adjust this */
-    height:755px;
+    height:350px;
 
     opacity:0;
 
